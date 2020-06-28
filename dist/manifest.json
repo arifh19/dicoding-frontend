@@ -1,0 +1,16 @@
+{
+"name": "BURGERKILL",
+"short_name": "BURGERKILL",
+"description": "BURGERKILL",
+"start_url": "/index.html",
+"display": "standalone",
+"background_color": "#2F4F4F",
+"theme_color": "#2F4F4F",
+"icons": [
+{
+"src": "icon.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
